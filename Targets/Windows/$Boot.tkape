@@ -12,4 +12,5 @@ Targets:
         AlwaysAddToQueue: true
 
 # Documentation
-# https://digital-forensics.sans.org/media/DFIR-Command-Line.pdf
+# https://www.sans.org/posters/eric-zimmermans-results-in-seconds-at-the-command-line-poster
+# https://flatcap.github.io/linux-ntfs/ntfs/files/boot.html
